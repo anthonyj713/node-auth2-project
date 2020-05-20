@@ -1,4 +1,4 @@
-const db = require()
+const db = require('../data/dbConnection.js');
 
 module.exports = {
     find,
